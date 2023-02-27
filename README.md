@@ -1,4 +1,3 @@
 # What is this project
 
-Este es un proyecto para convertir en pdf archivos de una hoja de calculo 
-.xls
+Script de python para convertir archivos excel con el detalle de factura en documentos pdf con formato de factura
